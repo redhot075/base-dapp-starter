@@ -24,3 +24,4 @@ Live Pages: https://redhot075.github.io/base-dapp-starter
 2. `cp env/.env.example .env`
 3. Add keys
 4. `npm run deploy`
+- OpenClaw integration experiments\n- Fork: https://github.com/redhot075/openclaw
